@@ -75,3 +75,78 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 Copyright (c) Microsoft Corporation. All rights reserved.
 
 Licensed under the [MIT](LICENSE.txt) license.
+
+
+{
+  "isVip": true,
+  "serverAddress": "https:\/\/sponsor.ajay.app",
+  "dontShowNotice": true,
+  "showTimeWithSkips": true,
+  "minDuration": 0,
+  "trackViewCount": true,
+  "skipCount": 0,
+  "minutesSaved": 0,
+  "categorySelections": [
+    {
+      "name": "sponsor",
+      "option": 2
+    },
+    {
+      "name": "selfpromo",
+      "option": 2
+    },
+    {
+      "name": "interaction",
+      "option": 2
+    },
+    {
+      "name": "intro",
+      "option": 2
+    },
+    {
+      "name": "outro",
+      "option": 2
+    },
+    {
+      "name": "preview",
+      "option": 2
+    },
+    {
+      "name": "filler",
+      "option": 2
+    },
+    {
+      "name": "music_offtopic",
+      "option": 2
+    }
+  ],
+  "barTypes": {
+    "sponsor": {
+      "color": "#00D400"
+    },
+    "selfpromo": {
+      "color": "#FFFF00"
+    },
+    "interaction": {
+      "color": "#CC00FF"
+    },
+    "poi_highlight": {
+      "color": "#FF1684"
+    },
+    "intro": {
+      "color": "#00FFFF"
+    },
+    "outro": {
+      "color": "#0202ED"
+    },
+    "preview": {
+      "color": "#008FD6"
+    },
+    "filler": {
+      "color": "#7300FF"
+    },
+    "music_offtopic": {
+      "color": "#FF9900"
+    }
+  }
+}
